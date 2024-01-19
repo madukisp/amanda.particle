@@ -11,10 +11,11 @@ user_title: Dev Full-Stack
 email: madukisp@gmail.com
 linkedin_username: https://www.linkedin.com/in/amanda-duque-kawa
 github_username:  madukisp
-medium_username: [Your Medium Username]
+medium_username: https://medium.com/@madukisp
 
 # Google Analytics
 google-analytics:
-  id: "[Your Google Analytics Tracking ID]"
+  id: "G-8YN2RLG9DD"
+
 
 exclude: ['package.json', 'src' , 'node_modules']
